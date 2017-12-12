@@ -1,0 +1,10 @@
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\bin\x64\Debug\TestDLL.dll
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\bin\x64\Debug\TestDLL.pdb
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\bin\x64\Debug\TestDLL.xml
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\bin\x64\Debug\TestDLL.tlb
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\obj\x64\Debug\TestDLL.Resources.resources
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\obj\x64\Debug\TestDLL.vbproj.GenerateResource.Cache
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\obj\x64\Debug\TestDLL.vbproj.CoreCompileInputs.cache
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\obj\x64\Debug\TestDLL.dll
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\obj\x64\Debug\TestDLL.xml
+C:\Users\pc\Dropbox\VB Net Projects\TestDLL\TestDLL\obj\x64\Debug\TestDLL.pdb
